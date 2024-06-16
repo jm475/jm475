@@ -1,6 +1,6 @@
 <div align="center">
   
-## <b>Hi there! 👋 I'm John</b>
+# <b>Hi there! 👋 I'm John</b>
 
 <b>A computer science graduate with a passion for web and mobile development and design.</b>
 
