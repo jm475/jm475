@@ -16,7 +16,7 @@
 - 📫 How to reach me:
   
   [<img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linkedin/linkedin-original.svg" title="Linkedin" width="40" height="40">](https://www.linkedin.com/in/john-macdonald-791438237/)&nbsp;&nbsp;&nbsp;
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail" alt="Gmail" width="40" height="40"/>](mailto:johnmacdonald789@gmail.com)
+  [<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" title="Gmail: johnmacdonald789@gmail.com" alt="Gmail" width="40" height="40"/>](mailto:johnmacdonald789@gmail.com)
 - ⚡ Fun fact: **I have an over 1000-day streak on Duolingo**
 
 <br>
